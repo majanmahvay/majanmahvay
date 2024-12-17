@@ -5,10 +5,11 @@ I am also known as "Mva" and this is my readme.
 ### now, showing my interests
 some of my interests:
 - 🎨 minimalistic arts... I just LOVE making them
-- 🎮 gaming... well, not that much since 2019
 - 🎲 D&D... is how I spend most of time with my trusties :)
 - 🎧 tracker music... since I restored my 808, I can experiment with it
 - 🖋️ YA writing... is where my 2nd life exists
+
+games are still my interest but I don't really have time for that. eventually, I can play a bit more when holidays kick in.
 
 ### random facts, not really interesting
 fun facts:
