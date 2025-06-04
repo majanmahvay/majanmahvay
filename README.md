@@ -4,9 +4,9 @@ I am also known as "Mva" and this is my readme.
 
 ### now, showing my interests
 some of my interests:
-- (insert emoji) (fill out on phone)
+- 🚴 can't sit on a couch all day, need to move sometimes!
 - 🎲 whenever I have free time, I spectate swordsmanship duels or play D&D.
-- (insert emoji) I mainly game on my phone, rarely on PC...
+- 🕹️ I mainly game on my phone, rarely on PC...
 - 🖋️ LOVE creating fantasy characters and maps, it's how I can spend time effectively!
 
 ### random facts, not really interesting
