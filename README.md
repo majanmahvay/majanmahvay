@@ -16,7 +16,7 @@ fun facts:
 3. my outfit is pretty simple: some shoes, wide jeans, hood, gloves, mask, sunglasses and cap
 
 ### my devices
-1. everyday PC:
+1. everyday PC (might not be there anymore soon :sob:):
    * MB: MSI H81M-P33 Micro ATX LGA1150
    * OS: Windows 10 Pro (64-bit)
    * CPU: Intel Core i5-4590 CPU @ 3.30GHz
@@ -38,7 +38,7 @@ fun facts:
    * SC: Creative Labs Sound Blaster Z SE PCIe Sound Card
 3. laptop:
    * MODEL: Asus Zenbook 14 OLED (UM3402YA)
-   * OS: Manjaro Linux (6.12.28-1-MANJARO, 64-bit)
+   * OS: Windows 11 Home (64-bit)
    * CPU: AMD Ryzen 5 5625U with Radeon Graphics
    * RAM: Micron Technology MT53E1G32D2NP-046 16 GB (2x8, DDR4)
    * SSD: Intel 670p 512 GB M.2-2280 PCIe 3.0 X4 NVME SSD
