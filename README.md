@@ -16,17 +16,7 @@ fun facts:
 3. my outfit is pretty simple: some shoes, wide jeans, hood, gloves, mask, sunglasses and cap
 
 ### my devices
-1. everyday PC (might not be there anymore soon :sob:):
-   * MB: MSI H81M-P33 Micro ATX LGA1150
-   * OS: Windows 10 Pro (64-bit)
-   * CPU: Intel Core i5-4590 CPU @ 3.30GHz
-   * GPU: MSI GAMING X GeForce GTX 1050 Ti 4 GB
-   * RAM: Patriot Viper 3 16 GB (2x8, DDR3)
-   * SSD: PNY CS900 240 GB 2.5" SSD
-   * USB: Kingston DataTraveller Kyson 64 GB USB 3.0
-   * SC: U-PHORIA UMC202HD 24-bit/192KHz Audio Interface
-   * WN: TP-Link Archer TX3000E PCIe x1 Wi-Fi Adapter
-2. powerhouse PC:
+1. powerhouse PC:
    * MB: Asus PRIME B560-PLUS ATX LGA1200
    * OS: Windows 11 Home (64-bit)
    * CPU: Intel Core i5-11600KF CPU @ 3.90GHz
@@ -36,14 +26,14 @@ fun facts:
    * SSD2: Samsung 870 QVO 1 TB 2.5" SSD
    * HDD: Seagate SkyHawk 4 TB 3.5" 5900 RPM Internal HDD
    * SC: Creative Labs Sound Blaster Z SE PCIe Sound Card
-3. laptop:
+2. laptop:
    * MODEL: Asus Zenbook 14 OLED (UM3402YA)
    * OS: Windows 11 Home (64-bit)
    * CPU: AMD Ryzen 5 5625U with Radeon Graphics
    * RAM: Micron Technology MT53E1G32D2NP-046 16 GB (2x8, DDR4)
    * SSD: Intel 670p 512 GB M.2-2280 PCIe 3.0 X4 NVME SSD
    * WN: Intel AX210 M.2 Wi-Fi Adapter
-4. the said phone:
+3. the said phone:
    * MODEL: Xiaomi POCO X6 Pro 5G (12/512)
    * OS: HyperOS 2 on Android 15
    * CPU: MediaTek Dimensity 8300-Ultra
