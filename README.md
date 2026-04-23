@@ -1,19 +1,19 @@
-# welcome, traveller. I am Maidar Valor.
+# welcome, traveller. I am Majan Mahvay.
 ### first, let me introduce myself to you
-I am also known as "Mva" and this is my readme.
+two things:
+- I am also known as, simply, "Mahvay"
+- 22M, currently in college
 
 ### now, showing my interests
 some of my interests:
-- 🚴 can't sit on a couch all day, need to move sometimes!
-- 🎲 whenever I have free time, I spectate swordsmanship duels or play D&D.
-- 🕹️ I mainly game on my phone, rarely on PC...
-- 🖋️ LOVE creating fantasy characters and maps, it's how I can spend time effectively!
+- 🌙 numbers. the most interesting one, to me, is **206**
+- ⚔️ swords too, especially big-sized ones (no, I didn't read Berserk... yet)
+- 🖋️ absolutely LOVE creating fantasy characters and maps
 
 ### random facts, not really interesting
 fun facts:
-1. "Mva" is read as "mah-vay" (and this is how I prefer to be called).
-2. "Maidar Valor" is not my real name. it's my character's name.
-3. my outfit is pretty simple: some shoes, wide jeans, hood, gloves, mask, sunglasses and cap
+1. "Mahvay" is read as "mah-vee". it was derived from one of the characters I made a long time ago ("Maidar Valor" -> "MaV" -> "Mahvay")
+2. "Majan Mahvay" is not my real name. it's my character's name, along with my internet persona
 
 ### finally, the end
 whatever, I just told you everything about me. you can always come back to this readme if you want.
