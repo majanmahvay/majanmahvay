@@ -1,8 +1,7 @@
 # welcome, traveller. I am Majan Mahvay.
 ### first, let me introduce myself to you
-two things:
+just one thing:
 - I am also known as, simply, "Mahvay"
-- 22M, currently in college
 
 ### now, showing my interests
 some of my interests:
